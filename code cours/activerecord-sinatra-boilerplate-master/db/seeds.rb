@@ -1,0 +1,1 @@
+Restaurant.create(name: "Chez Mama", address: "villa Gaudelet", rating: 2)
